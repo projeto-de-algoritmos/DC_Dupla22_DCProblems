@@ -46,4 +46,4 @@ ex.:
 ./11935 <11935>.in
 
 ## Outros 
-Obrigado!
+Apresentação se encontra na pasta assets, arquivo apresentacao.mp4
